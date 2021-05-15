@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about  **Flutter, Firebase and Ionic**
-- 📫 How to reach me:  **banerjeearnab38@gmail.com**
+- 📫 How to reach me:  **dev@banerjeearnab.com**
 
