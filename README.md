@@ -8,3 +8,8 @@
 - ⚡ About me: [Portfolio](https://www.banerjeearnab.com)
 - 📫 How to reach me:  **dev@banerjeearnab.com**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurbes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurbes&show_icons=true&count_private=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+
+
